@@ -1,6 +1,6 @@
 # Password-Strength-Checker
 
-import java.util.Scanner;
+  import java.util.Scanner;
 
 public class pass_4 {
     private static final int MIN_LENGTH = 8;
